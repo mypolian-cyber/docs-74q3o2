@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-iv3clm.privatetalks.online/sitemap.xml
